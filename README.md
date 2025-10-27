@@ -49,14 +49,15 @@ The data is fetched on page load to simulate a real API request.
  UI components built with MUI
 
 ## Project Structure
-src/
-├── assets/            # Static assets (images, fonts, etc.)
-├── services/          # API mocks
-├── pages/             # Page components
-├── store/             # Redux store & slices
-├── mockData.ts        # Local product data
-├── types/             # TypeScript types
-├── ui/                # Layout and shared UI components
-├── router.tsx         # Routes configuration
-├── App.tsx
-└── main.tsx
+```bash
+   src/
+   ├── assets/            # Static assets (images, fonts, etc.)
+   ├── services/          # API mocks
+   ├── pages/             # Page components
+   ├── store/             # Redux store & slices
+   ├── mockData.ts        # Local product data
+   ├── types/             # TypeScript types
+   ├── ui/                # Layout and shared UI components
+   ├── router.tsx         # Routes configuration
+   ├── App.tsx
+   └── main.tsx
