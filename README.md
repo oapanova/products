@@ -18,7 +18,7 @@ All product data is stored locally as mock data.
 1. Clone the repository:
    ```bash
    git clone https://github.com/oapanova/products.git
-   cd qbiq_task
+   cd products
 
 2. Install dependencies:
    ```bash
