@@ -1,10 +1,10 @@
-# Qbiq Task 🛍️
+# Qbiq HomeTask 
 
 This is a small e-commerce frontend project built as part of a home assignment.  
 The app allows users to view a list of products, search by name, and navigate to a product details page.  
 All product data is stored locally as mock data.
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 - [React](https://react.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
@@ -13,7 +13,7 @@ All product data is stored locally as mock data.
 - [Redux Toolkit](https://redux-toolkit.js.org/)
 - [React Router DOM](https://reactrouter.com/)
 
-## 📦 Installation
+##  Installation
 
 1. Clone the repository:
    ```bash
@@ -31,7 +31,7 @@ All product data is stored locally as mock data.
 
 
 4. Open the app in your browser:
-👉 http://localhost:3000
+   http://localhost:3000
 
 ## Mock Data
 
