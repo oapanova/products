@@ -1,4 +1,4 @@
-# Products Store 
+# Products List 
 
 This is a small e-commerce frontend project built as part of a home assignment.  
 The app allows users to view a list of products, search by name, and navigate to a product details page.  
